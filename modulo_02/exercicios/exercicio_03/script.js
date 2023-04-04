@@ -1,0 +1,2 @@
+// Crie uma variável que armazene um número inteiro e outra variável que armazene uma string contendo um número. Converta a string em número e some com o primeiro número inteiro. 
+// Exiba o resultado no console.

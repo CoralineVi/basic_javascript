@@ -1,0 +1,2 @@
+// Crie uma variável que armazene uma nota de 0 a 10 e exiba uma mensagem no console informando se a nota é:
+// insuficiente (menor que 6), suficiente (entre 6 e 7), boa (entre 7 e 9) ou excelente (maior que 9).

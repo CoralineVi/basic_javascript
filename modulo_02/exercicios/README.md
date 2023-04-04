@@ -1,5 +1,7 @@
 # Exercícios do Módulo
 
+> Meu conhecimento de HTML5 é basicamente 0, então eu preparei um modelo visual básico, no modulo_01 ele é apenas estético, pois quase sempre irei utilizar `window.prompt` para os exercícios, mas no módulo 3 para frente será mais prático utilizar esse módelo base.
+
 1. Crie uma variável que armazene o seu nome e exiba uma mensagem de boas-vindas no console, concatenando o seu nome à mensagem.
 
 2. Crie duas variáveis que armazenem dois números inteiros e calcule a soma entre eles. Exiba o resultado no console.
