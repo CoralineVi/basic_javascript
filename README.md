@@ -12,5 +12,5 @@ Esse é um curso de JavaScript básico, o curso é online e gratuito, oferecido 
 
 ## Referências
 
-- [Meu notion](https://mylimbo.notion.site/Programa-o-763d58262eb144cfa9b920eea8c64337)
-- [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Meu Notion](https://mylimbo.notion.site/Programa-o-763d58262eb144cfa9b920eea8c64337)
+- [Documentação do JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
