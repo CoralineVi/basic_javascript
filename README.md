@@ -1,6 +1,6 @@
 # JavaScript Básico
 
-Esse é um curso de JavaScript básico, o curso é online e gratuito, oferecido por pelo "Curso em Vídeo" e patrocinado pelo Google. Abaixo estão informações úteis sobre o curso, bem como links para recursos adicionais.
+Esse é um curso de JavaScript básico em pt-br, o curso é online e gratuito, oferecido por pelo "Curso em Vídeo" e patrocinado pelo Google. Abaixo estão informações úteis sobre o curso, bem como links para recursos adicionais.
 
 ## Link do Curso
 
