@@ -7,10 +7,11 @@
 2. Aula 6 - Tratamento de dados
    - Convertendo tipos de dados
 
-3. Aula 7 - Dando os primeiros passos.
-   - Programas necessários para programar em JS
-   - Guia de instalação dos programas
+3. Aula 7 - Operadores (parte 1)
+   - Operadores básicos
+   - Operadores aritméticos
 
-4. Aula 8 - Criando seu primeiro script
-   - Fundamental do HTML5 e CSS3
-   - Testes básicos no JS
+4. Aula 8 - Operadores (parte 2)
+   - Operadores relacionais
+   - Operadores lógicos
+   - Operadores ternários
