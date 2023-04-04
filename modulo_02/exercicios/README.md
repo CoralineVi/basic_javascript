@@ -1,6 +1,7 @@
 # Exercícios do Módulo
 
-> Meu conhecimento de HTML5 é basicamente 0, então eu preparei um modelo visual básico, no modulo_01 ele é apenas estético, pois quase sempre irei utilizar `window.prompt` para os exercícios, mas no módulo 3 para frente será mais prático utilizar esse módelo base.
+> - Meu conhecimento de HTML5 é basicamente 0, então eu preparei um modelo visual básico, no modulo_01 ele é apenas estético, pois quase sempre irei utilizar `window.prompt` para os exercícios, mas no módulo 3 para frente será mais prático utilizar esse módelo base.  
+> - Também é importante lembrar que esses exercícios não estão no curso, foram ideias de exercícios que eu peguei na internet baseado no nível de conhecimento atual do curso.
 
 1. Crie uma variável que armazene o seu nome e exiba uma mensagem de boas-vindas no console, concatenando o seu nome à mensagem.
 
