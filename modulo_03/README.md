@@ -5,4 +5,6 @@
    - Intodução ao DOM (Document Object Model)
 
 2. Eventos DOM
-   - 
+   - Listeners;
+   - Eventos DOM;
+   - Funções (básico).
