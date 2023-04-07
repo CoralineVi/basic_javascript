@@ -11,5 +11,5 @@ obj_imagem.addEventListener("click", mudar_imagem)
 // Funções
 function mudar_imagem(){
     obj_imagem.src = "shitpost2.jpg"
-};
+}
 //
