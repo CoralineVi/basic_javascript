@@ -15,10 +15,21 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    text-align: center;
 }
 
 footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+h3#lista {
+    color: brown;
+}
+
+p#botao1 {
+    background-color: rgb(17, 211, 146);
+    line-height: 50px;
+    text-align: center;
 }
