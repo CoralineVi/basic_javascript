@@ -17,7 +17,3 @@ obj_verificar.addEventListener("click", function() {
     }
 })
 //
-
-// Funções
-
-//
