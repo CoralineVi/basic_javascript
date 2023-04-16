@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(35, 156, 255);
+    background-color: #022046;
     font: normal 15pt Arial;
     text-align: center;
 }
@@ -13,7 +13,8 @@ section {
     background-color: white;
     border-radius: 15px;
     padding: 15px;
-    width: 500px;
+    width: 50%;
+    height: 50%;
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
 }
@@ -23,6 +24,8 @@ footer {
     font-style: italic;
 }
 
-div#botao {
-    background-color:dimgrey;
+img#img_horario {
+    width: 30vw;
+    height: 30vw;
+    border-radius: 50%;
 }
