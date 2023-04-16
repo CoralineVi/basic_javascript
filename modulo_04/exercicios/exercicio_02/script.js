@@ -1,5 +1,5 @@
-// Crie um botão com um id "botao" e um parágrafo com um id "paragrafo". 
-// Ao clicar no botão, o texto do parágrafo deve ser alterado para "O botão foi clicado!".
+// Faça um site que com base no horário do dia
+// mude uma imagem e a cor de fundo do site
 
 // Objetos do HTML
 
