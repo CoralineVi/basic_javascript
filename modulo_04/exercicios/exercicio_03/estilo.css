@@ -24,6 +24,8 @@ footer {
     font-style: italic;
 }
 
-div#botao {
-    background-color:dimgrey;
+input[type="number"] {
+    font: normal 25pt Arial;
+    width: 100px;
+    height: 30px;
 }
