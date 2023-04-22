@@ -1,3 +1,3 @@
 # Descrição dos Testes
 
-1. test001.html - Um modelo ultra básico de website utilizando fundamentos do HTML, CSS e JS
+1. test001 - Um modelo ultra básico de website utilizando fundamentos do HTML, CSS e JS

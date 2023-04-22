@@ -1,10 +1,10 @@
 # Aulas do Módulo
 
-1. Aula 9 - Introdução ao DOM
-   - Guia de instalação de ferramenta de Preview da página
-   - Intodução ao DOM (Document Object Model)
+1. Aula 11 - Condições (Parte 1)
+   - if e else if;
+   - Node exec no VScode.
 
-2. Eventos DOM
-   - Listeners;
-   - Eventos DOM;
-   - Funções (básico).
+2. Aula 12 - Condições (Parte 2)
+   - Condições aninhadas;
+   - Condições em páginas HTML;
+   - Estrutura de controle switch.
