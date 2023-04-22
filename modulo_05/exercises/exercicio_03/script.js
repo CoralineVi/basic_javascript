@@ -1,26 +1,31 @@
 // Crie um programa que solicita ao usuário que insira um número e, em seguida, 
 // imprima na tela todos os números primos entre 0 e o número inserido utilizando um loop for.
 
-// Programa em si
+// Variáveis
 input_numero = document.querySelector('input#numero')
 div_resultado = document.querySelector('div#resultado')
 button_resultado = document.querySelector('button#resultado')
 //
 
-// Listeners
+// Programa em si
 button_resultado.addEventListener('click', function () {
+    div_resultado.innerHTML = ""
     let numero = Number(input_numero.value)
+    let quantidade_divisores, isPrime
+  
+    for (let contador = 2; contador <= numero; contador++) {
+        isPrime = true;
+        quantidade_divisores = 0;
     
-    quantidade_divisores = 0
-    for (let contador = 1; contador <= numero; contador++) {
-
-        if (quantidade_divisores > 2) {
-            div_resultado.innerHTML += contador
+        for (let divisor = 2; divisor < contador; divisor++) {
+            if (contador % divisor === 0) {
+            quantidade_divisores++;
+            isPrime = false;
+            break;
+            }
         }
-
-        for (let divisor = 1; divisor <= numero; divisor++) {
-            if (contador / divisor === 1)
-            quantidade_divisores++
+        if (isPrime) {
+            div_resultado.innerHTML += contador + ", ";
         }
     }
 })
