@@ -1,24 +1,32 @@
 body {
-    background-color: rgb(35, 156, 255);
-    font: normal 15pt Arial;
-}
-
-header {
-    color: white;
+    font-family: Arial, sans-serif;
     text-align: center;
 }
 
-section {
-    background-color: white;
-    border-radius: 10px;
-    padding: 15px;
-    width: 500px;
-    margin: auto;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+h1 {
+    margin-top: 50px;
 }
 
-footer {
-    color: white;
-    font-style: italic;
-    text-align: center;
+#input-number {
+    margin-top: 20px;
+}
+
+#add-button {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#number-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#number-list li {
+    margin-bottom: 5px;
+}
+
+.alert {
+    color: red;
+    font-weight: bold;
 }
