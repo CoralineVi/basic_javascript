@@ -5,6 +5,6 @@
    - Intodução ao DOM (Document Object Model)
 
 2. Aula 10 - Eventos DOM
-   - Listeners;
-   - Eventos DOM;
-   - Funções (básico).
+   - Listeners
+   - Eventos DOM
+   - Funções (básico)
