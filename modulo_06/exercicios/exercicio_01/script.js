@@ -3,12 +3,12 @@ const inputNumber = document.getElementById('input-number') // Caixa de texto pa
 const addButton = document.getElementById('add-button') // Botão de adicionar
 const numberList = document.getElementById('number-list') // Lista de números
 
-// Adiciona um ouvinte de evento ao botão de adicionar
+// Adiciona um listener de evento ao botão de adicionar
 addButton.addEventListener('click', function() {
     // Obtém o número digitado na caixa de texto e o converte para um número inteiro
     const number = parseInt(inputNumber.value)
 
-    // Verifica se o número não é um valor válido (não é um número, é menor que 1 ou maior que 100)
+    // Verifica se o número não é um valor válido (Verificação: não é um número, é menor que 1 ou maior que 100)
     if (isNaN(number) || number < 1 || number > 100) {
         window.alert('Digite um número de 1 a 100')
         return
