@@ -8,9 +8,9 @@ Esse é um curso de JavaScript básico em pt-br, o curso é online e gratuito, o
 
 ## Anotações
 
-[Anotações do JavaScript](https://mylimbo.notion.site/JavaScript-852eca2f2e4a477184b8aa0dcf479b3f)
+[Anotações do JavaScript](https://coralinevi.notion.site/Development-a24562814e9a43e89ed65905c9f45d0b?pvs=4)
 
 ## Referências
 
-- [Meu Notion](https://mylimbo.notion.site/Programa-o-763d58262eb144cfa9b920eea8c64337)
+- [Meu Notion](https://coralinevi.notion.site/Development-a24562814e9a43e89ed65905c9f45d0b?pvs=4)
 - [Documentação do JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
